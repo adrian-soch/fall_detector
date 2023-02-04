@@ -1,7 +1,5 @@
 # Fall-Detector
 
-**Note:** Code reference for MHI and CNN training: https://medium.com/diving-in-deep/fall-detection-with-pytorch-b4f19be71e80
-
 ## Preprocessing
 
 1. Download and unzip datasets.
@@ -32,3 +30,7 @@
 ### CNN
 
 Not implemented
+
+
+
+> **Note:** Code reference for MHI and CNN training: https://medium.com/diving-in-deep/fall-detection-with-pytorch-b4f19be71e80
